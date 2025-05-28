@@ -9,7 +9,7 @@ global.ownernomer = "2348165846414"
 global.ownername = "𝑻𝒐𝒙𝒙𝒊𝒄 𝑩𝒐𝒚"
 global.ytname = "YT: ToxxicTech"
 global.socialm = "GitHub: Toxic1239"
-global.location = "Nigeria"
+global.location = "kenya"
 
 global.ownernumber = '22890519440'  //creator number
 global.ownername = 'hash tag'//owner name
